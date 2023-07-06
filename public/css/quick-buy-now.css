@@ -1,0 +1,12 @@
+.wqbn-buy-now {
+    margin-left: 0.25em;
+    background-color: #E95420;
+}
+
+.wqbn-buy-now:disabled {
+    background-color: #f1d7cd;
+}
+
+.wqbn-buy-now:hover {
+    background-color: #d83b02;
+}
